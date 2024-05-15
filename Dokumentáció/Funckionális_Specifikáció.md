@@ -28,3 +28,6 @@
   <img src="https://github.com/BoteeeB/Robotika_Projekt/blob/main/src/K%C3%A9perny%C5%91terv.png" alt="Robotika beadandó képernyőterve" />
 </p>
 <h3 align="center">Robotika beadandó képernyőterve</h3>
+
+## 5. Videó a működésről:
+https://drive.google.com/drive/folders/1yWNh5z-pOPxaLwqUOGgFEmjb85U_a6wT?usp=sharing

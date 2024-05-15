@@ -6,15 +6,15 @@
 
 ## 2. Alkatrész lista:
 
-* ### 1db Arduino UNO
-* ### 1db potméter
-* ### 4db gomb
-* ### 1db led
-* ### 1db piezo csipogó
-* ### 1db 16x2 LCD
-* ### 6db 10K ellenállás
-* ### 1db breadboard
-* ### 30db kábel
+* #### 1db Arduino UNO
+* #### 1db potméter
+* #### 4db gomb
+* #### 1db led
+* #### 1db piezo csipogó
+* #### 1db 16x2 LCD
+* #### 6db 10K ellenállás
+* #### 1db breadboard
+* #### 30db kábel
 
 ## 3. Használati esetek (működés)
 
@@ -24,3 +24,7 @@
 * ### Negyedik gomb lenyomására -> stoppert tudunk indítani(óra, perc, másodperc)
 
 ## 4. Képernyőterv
+<p align="center">
+  <img src="https://github.com/BoteeeB/Robotika_Projekt/blob/main/src/K%C3%A9perny%C5%91terv.png" alt="Robotika beadandó képernyőterve" />
+</p>
+<h3 align="center">Robotika beadandó képernyőterve</h3>
